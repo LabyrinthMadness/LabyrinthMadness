@@ -23,5 +23,6 @@ This is for command line usage, but you can find similar instructions for GUI cl
 Whenever you want to share your changes or see new changes from others you should do the following:
 
 1. `git add . && git commit -m "Voici ce que j'ai fait"`
-2. `git pull` (To fetch the latest changes from the server)
+2a. `git pull` (To fetch the latest changes from the server)
+2b. You may be asked to resolve a merge conflict. If you're not sure what to do, ask for help!
 3. `git push origin master`
