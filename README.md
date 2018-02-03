@@ -13,7 +13,7 @@ Ce jeu était fait par...
 
 1. [Install Git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git), if it's not already installed.
 2. [Install Git LFS (Large File Storage)](https://help.github.com/articles/installing-git-large-file-storage/). This is needed for fetching the large media files which are stored in a separate place on GitHub's servers (for optimized repository size and access time).
-3. From the command line: `git clone https://github.com/LabyrinthMadness/LabyrinthMadness.git` (or you can use a Git graphical client like [SourceTree](https://www.sourcetreeapp.com/), [GitHub Desktop](https://desktop.github.com/) or [GitKraken](https://www.gitkraken.com/).
+3. From the command line: `git clone https://github.com/LabyrinthMadness/LabyrinthMadness.git` (or you can use a Git graphical client like [SourceTree](https://www.sourcetreeapp.com/), [GitHub Desktop](https://desktop.github.com/) or [GitKraken](https://www.gitkraken.com/)).
 4. You should be able to open Unity and select the LabyrinthMadness project.
 
 ### updating the repository
